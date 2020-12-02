@@ -1,1 +1,1 @@
-# Deploying MERN Stack to Heroku Test App
+# Deploying MERN Stack to Heroku Test Application
